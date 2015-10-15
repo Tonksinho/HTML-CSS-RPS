@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+<meta name="keywords" content="Filmes, séries" />
+<meta name="description" content="O melhor site para você que quer saber tudo sobre filmes e séries">
+<title>Tudo sobre o mundo cinematográfico</title>
+<link rel="stylesheet" type="text/css" href="Criando o site.css"/>
+<link rel="shortcut icon" type="image/x-icon" href="Gabriel Diversos/favicon.png" />
+</head>
+	<body>
+		<div id="container">
+           <center> <img src = "pornozinhodeanao/trabalhandoduro.png" width ="500" height ="350" />  </center> 
+			<div id="header">
+			<img src="fundo.jpg" />
+			</div>
+			<div id="menu">
+				<ul>
+					<li><a href="#">Home</a></li>
+					<li><a href="#">Sobre</a></li>
+					<li><a href="#">Parceria</a></li>
+					<li><a href="#">Contato</a></li>
+			</div>
+			<div id="conteudo">
+			Aqui vai o conteúdo do site
+			</div>
+			<div id="sidebar"> 
+			<div class="titlebox">
+			</div>
+			<div class="contentbox">
+			</div>
+			</div>
+			<div id="rodape">
+			Aqui vai o rodapé
+			</div>
+		</div>
+	
+	
+	
+	
+	
+	
+	
+		</body>
+</html>
